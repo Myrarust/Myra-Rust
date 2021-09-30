@@ -8,7 +8,6 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 
 Link my projects here
 
-[Airline Saftey Visualization Analysis] (https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git)
 
 ## Contact
 
