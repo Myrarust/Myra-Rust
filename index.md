@@ -1,10 +1,12 @@
 ## About
 
-Aspiring data scientist ready to accept complex challenges associated with working with vast data sets to break down information, gather relevant points, exploit growing data stores, and solve advanced business problems. Looking to expand experience through hands-on training and guided participation in effective data analysis and data management tasks.
+I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality as I enjoy using technology and out-of-the-box thinking to sovle problems and provide answers. 
 
 ## Work
 
-Put my projects here
+Please take a look at some of my favorite projects I completed during my Data Science Master's program. These projects span a variety of different domains and demostrate my capabilities in Python, data wrangling, machine learning, predictive analysis, and data visualization, to name a few.
+
+Link my projects here
 
 ## Contact
 
