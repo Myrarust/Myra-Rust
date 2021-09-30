@@ -21,11 +21,11 @@ Feel free to send me a message.
     <input type="text" name="name" required="">
   </label>
   <label>
-    Email:
-    <input type="email" name="_replyto" required="">
+    <br>Email:
+    <input type="email" name="_replyto" required="">\n
   </label>
   <label>
-    Message:
+    <br>Message:
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
