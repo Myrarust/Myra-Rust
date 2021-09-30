@@ -17,17 +17,17 @@ Feel free to send me a message.
   method="POST"
 >
   <label>
-    Name:
+    Name:     
     <input type="text" name="name" required="">
   </label>
   <label>
-    <br>Email:
+    <br>Email:    
     <input type="email" name="_replyto" required="">
   </label>
   <label>
-    <br>Message:
+    <br>Message:  
     <textarea name="message" rows="5" cols="50"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <br><button type="submit">Send</button>
 </form>
