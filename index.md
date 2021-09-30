@@ -18,15 +18,15 @@ Feel free to send me a message.
 >
   <label>
     Name:     
-    <input style="margin-left:10px" input type="text" name="name" required="">
+    <br><input type="text" name="name" required="">
   </label>
   <label>
     <br>Email:    
-    <input style="margin-left:10px" input type="email" name="_replyto" required="">
+    <br><input type="email" name="_replyto" required="">
   </label>
   <label>
     <br>Message:  
-    <input style="margin-left:10px" textarea name="message" rows="5" cols="50"></textarea>
+    <br><textarea name="message" rows="5" cols="50"></textarea>
   </label>
   <!-- your other form fields go here -->
   <br><button type="submit">Send</button>
