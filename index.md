@@ -22,11 +22,11 @@ Feel free to send me a message.
   </label>
   <label>
     <br>Email:
-    <input type="email" name="_replyto" required="">\n
+    <input type="email" name="_replyto" required="">
   </label>
   <label>
     <br>Message:
-    <textarea name="message"></textarea>
+    <textarea name="message" rows="5" cols="50"></textarea>
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
