@@ -8,6 +8,7 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 
 Link my projects here
 
+[ASL Image Classification] (https://myrarust.github.io/ASL-Image-Classification/)
 
 ## Contact
 
