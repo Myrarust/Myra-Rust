@@ -18,7 +18,23 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 
 ## Contact
 
-Feel free to send me a message.
+**Social Media**
+<html>
+   <body>
+      <p>
+         Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a>.
+      </p>
+   </body>
+</html>
+<html>
+   <body>
+      <p>
+         LinkedIn: <a href="https://www.linkedin.com/in/myra-rust-a18b6719/">https://www.linkedin.com/in/myra-rust-a18b6719/</a>.
+      </p>
+   </body>
+</html>
+
+Or feel free to send me a message!
 <form
   action="https://formspree.io/f/mrgrdplp"
   method="POST"
