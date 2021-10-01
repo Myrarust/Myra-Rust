@@ -8,17 +8,12 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 
 Link my projects here
 
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Test Project</title>
-   </head>
 
+<html>
    <body>
-      <h1>Company</h1>
+      <h3>Airline Saftey Visualization Analysis</h3>
       <p>
-         We’re a <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">team</a> of professionals working
-         hard to provide free learning content.
+         This is a test to see if this works. I would describe my project here and then say, to view the repository for this project <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">click here</a>.
       </p>
    </body>
 </html>
