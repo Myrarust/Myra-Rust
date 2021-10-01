@@ -6,14 +6,11 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 Please take a look at some of my favorite projects I completed during my Data Science Master's program. These projects span a variety of different domains and demostrate my capabilities in Python, data wrangling, machine learning, predictive analysis, and data visualization.
 
-Link my projects here
-
-
 <html>
    <body>
       <h3>Airline Saftey Visualization Analysis</h3>
       <p>
-         This is a test to see if this works. I would describe my project here and then say, to view the repository for this project <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">click here</a>.
+         This is a test to see if this works. I would describe my project here, then add links to the final report and repository for this project <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">click here</a>.
       </p>
    </body>
 </html>
