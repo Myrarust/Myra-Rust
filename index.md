@@ -11,13 +11,13 @@ Link my projects here
 <!DOCTYPE html>
 <html>
    <head>
-      <title>HTML Hyperlinks</title>
+      <title>Test Project</title>
    </head>
 
    <body>
       <h1>Company</h1>
       <p>
-         We’re a <a href="/about/about_team.htm">team</a> of professionals working
+         We’re a <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">team</a> of professionals working
          hard to provide free learning content.
       </p>
    </body>
