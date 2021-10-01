@@ -34,7 +34,7 @@ Please take a look at some of my favorite projects I completed during my Data Sc
    </body>
 </html>
 
-Or feel free to send me a message!
+**Or send me a message:**
 <form
   action="https://formspree.io/f/mrgrdplp"
   method="POST"
