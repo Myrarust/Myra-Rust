@@ -8,9 +8,16 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 
 <html>
    <body>
+      <h3>Statistical Analysis of IVF Success Rates</h3>
+      <p>
+         Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. During the IVF procedure, an egg is retrieved from the woman, fertilized in a laboratory, then the fertilized embryo is transferred to the woman’s uterus. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
+         <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis/blob/master/IVF%20Project%20Final%20Report.pdf">Final Report</a>
+         <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis">Github Repo</a></p>
+   </body>
+   <body>
       <h3>Airline Saftey Visualization Analysis</h3>
       <p>
-         **Scenario:** A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that relayed the facts about airline safety. I created a dashboard for fellow employees, a blog post and infographic for the public, and an executive summary and final presentation for management. Click on the links below to view the products:
+         Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that relayed the facts about airline safety. I created a dashboard for fellow employees, a blog post and infographic for the public, and an executive summary and final presentation for management. Click on the links below to view the products:
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Employee Dashboard.pdf">Dashboard</a>
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/BlogPost.pdf">Blog Post</a>
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Infographic.pdf">Infographic</a>
