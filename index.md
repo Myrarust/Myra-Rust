@@ -1,9 +1,11 @@
-## Hi! I'm Myra Rust.
+# Myra Rust
+
+
 ## About
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
 
-## Work
+## Projects
 
 Please take a look at some of my favorite projects I completed during my Data Science Master's program. These projects span a variety of different domains and demostrate my capabilities in Python, data wrangling, machine learning, predictive analysis, and data visualization.
 
