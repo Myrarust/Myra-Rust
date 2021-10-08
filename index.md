@@ -10,8 +10,13 @@ Please take a look at some of my favorite projects I completed during my Data Sc
    <body>
       <h3>Airline Saftey Visualization Analysis</h3>
       <p>
-         This is a test to see if this works. I would describe my project here, then add links to the final report and repository for this project <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis.git">click here</a>.
-      </p>
+         Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that relayed the facts about airline safety. I created a dashboard for fellow employees, a blog post and infographic for the public, and an executive summary and final presentation for management. Click on the links below to view the products.
+         <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Dashboard.pdf">Dashboard</a>
+         <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/BlogPost.pdf">Blog Post</a>
+         <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Infographic.pdf">Infographic</a>
+         <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary</a>
+         <a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Final%20Presentation.pdf">Final Presentation</a>
+      <p>
    </body>
 </html>
 
