@@ -15,8 +15,7 @@ Please take a look at some of my favorite projects I completed during my Data Sc
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/BlogPost.pdf">Blog Post</a>
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Infographic.pdf">Infographic</a>
          <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary</a>
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Final%20Presentation.pdf">Final Presentation</a>
-      <p>
+         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Final%20Presentation.pdf">Final Presentation</a></p>
    </body>
 </html>
 
