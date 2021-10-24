@@ -1,8 +1,11 @@
 ![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png)
 
 <html>
+   <head>
+      <title>Hi! I'm Myra</title>
+   </head>
    <body>
-      <img src = "https://github.com/Myrarust/Myra-Rust/docs/assets/images/20200607_140904.png" alt = ""/>
+      <img src = "https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png" alt = ""/>
    </body>
 </html>
 
