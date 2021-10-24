@@ -1,6 +1,6 @@
-![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.jpg)
+![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png)
 
-<img src="/Myra-Rust/docs/assets/images/20200607_140904.png" alt="Hi! I'm Myra"> 
+<img src="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png" alt="Hi! I'm Myra"> 
 
 
 
