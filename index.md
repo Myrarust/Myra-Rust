@@ -1,4 +1,4 @@
-![Hi! I'm Myra](/Myra-Rust/docs/assets/images/20200607_140904.jpg)
+![Hi! I'm Myra](/Myra-Rust/docs/assets/images/20200607_140904.png)
 
 ## About
 
