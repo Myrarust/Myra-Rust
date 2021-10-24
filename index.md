@@ -1,6 +1,8 @@
 ![Hi! I'm Myra](/Myra-Rust/docs/assets/images/20200607_140904.png)
 
-<img src="/Myra-Rust/docs/assets/images/20200607_140904.png" alt="Hi! I'm Myra"> </div>
+<img src="/Myra-Rust/docs/assets/images/20200607_140904.png" alt="Hi! I'm Myra"> 
+
+
 
 ## About
 
