@@ -10,7 +10,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 <html>
    <body>
       <p>
-         Click here for my <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">Resume</a>.
+         To view my resume <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
       </p>
    </body>
 </html>
