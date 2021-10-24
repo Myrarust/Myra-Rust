@@ -1,7 +1,7 @@
 <html>
    <body>
       <p>
-         <img src="/Myrarust/Myra-Rust/20200607_140904.jpg" alt="Hi! I'm Myra"/> 
+         <img src="https://github.com/Myrarust/Myra-Rust/20200607_140904.jpg" alt="Hi! I'm Myra"/> 
       </p>
    </body>
 </html>
