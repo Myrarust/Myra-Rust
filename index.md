@@ -4,6 +4,21 @@
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
 
+### Skills:
+Data Science, Statistical Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, Software QA.
+### Languages:
+Python, R, SQL, UNIX
+### Software packages and platforms: 
+Pandas, Scikit-learn, Numpy, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira.
+### Resume:
+<html>
+   <body>
+      <p>
+         Click here for my <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">Resume</a>.
+      </p>
+   </body>
+</html>
+
 ## Projects
 
 Please take a look at some of my favorite projects I completed during my Data Science Master's program. These projects span a variety of different domains and demostrate my capabilities in Python, data wrangling, machine learning, predictive analysis, and data visualization.
