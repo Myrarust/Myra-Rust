@@ -6,7 +6,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 **Skills:** Data Science, Statistical Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, Software QA<br>
 **Languages:** Python, R, SQL, UNIX<br>
-**Software packages and platforms:** Pandas, Scikit-learn, Numpy, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira<br>
+**Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira<br>
 <html>
    <body>
       <p>
