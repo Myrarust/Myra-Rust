@@ -1,9 +1,4 @@
 ![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png)
-
-<img src="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/20200607_140904.png" alt="Hi! I'm Myra"> 
-
-
-
 ## About
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
