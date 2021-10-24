@@ -40,7 +40,7 @@ Please take a look at some of my favorite projects I completed during my Data Sc
 </html>
 
 
-## Contact
+## Contact Info
 
 **Social Media**
 <html>
