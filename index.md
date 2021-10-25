@@ -11,11 +11,11 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.<br>
 
 <html>
-   <body>
-      <p>
-         To view my resume <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
-      </p>
-   </body>
+  <body>
+    <p>
+      To view my resume <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
+    </p>
+  </body>
 </html>
 
 ## Projects
