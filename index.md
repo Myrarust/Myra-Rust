@@ -82,6 +82,8 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.  
          <br><a href="placeholder">Github Repo</a></p>
    </body>
+</html>
+<br>
 
 ## Contact Info
 
