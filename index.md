@@ -24,21 +24,59 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 
 <html>
    <body>
+      <h3>Predicting Divorce with Logistic Regression</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>      
+   <body>
+      <h3>ASL Image Classification</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>   
+   <body>
+      <h3>Forecasting Workplace Absenteeism</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>   
+   <body>
+      <h3>Airline Saftey Visualization Analysis</h3>
+      <p>
+         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management. 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>
+   <body>
+      <h3>Exploratory Analsis of Colorado's Air Quality Index</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>   
+   <body>
+      <h3>Predicting Recidivism using Machine Learning</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>   
+   <body>
       <h3>Statistical Analysis of IVF Success Rates</h3>
       <p>
          Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. During the IVF procedure, an egg is retrieved from the woman, fertilized in a laboratory, then the fertilized embryo is transferred to the woman’s uterus. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
          <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis">Github Repo</a></p>
    </body>
    <body>
-      <h3>Airline Saftey Visualization Analysis</h3>
+      <h3>Mobile Game Market Analysis</h3>
       <p>
-         Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that relayed the facts about airline safety. I created a dashboard for fellow employees, a blog post and infographic for the public, and an executive summary and final presentation for management. Click on the links below to view the products:
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Employee Dashboard.pdf">Dashboard</a>
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/BlogPost.pdf">Blog Post</a>
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Infographic.pdf">Infographic</a>
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Executive%20Summary.pdf">Executive Summary</a>
-         <br><a href="https://github.com/Myrarust/Airline-Safety-Visualization-Analysis/blob/main/Final%20Presentation.pdf">Final Presentation</a></p>
-   </body>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>  
+      <body>
+      <h3>Denver County Traffic Analysis</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>  
 </html>
 
 
