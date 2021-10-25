@@ -13,7 +13,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 <html>
    <body>
       <p>
-         **Resume** <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
+         View Resume <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
       </p>
    </body>
 </html>
