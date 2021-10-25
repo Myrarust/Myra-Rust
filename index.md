@@ -4,9 +4,12 @@
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
 
-**Skills:** Data Science, Statistical Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, Software QA<br>
+**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
+
 **Languages:** Python, R, SQL, UNIX<br>
-**Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira<br>
+
+**Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.<br>
+
 <html>
    <body>
       <p>
@@ -17,14 +20,13 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 ## Projects
 
-Please take a look at some of my favorite projects I completed during my Data Science Master's program. These projects span a variety of different domains and demostrate my capabilities in Python, data wrangling, machine learning, predictive analysis, and data visualization.
+Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that peaks your interest, you can view the project deliverables and code by clicking the Github repo link. This will bring you to the repo specific to that project. 
 
 <html>
    <body>
       <h3>Statistical Analysis of IVF Success Rates</h3>
       <p>
          Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. During the IVF procedure, an egg is retrieved from the woman, fertilized in a laboratory, then the fertilized embryo is transferred to the woman’s uterus. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
-         <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis/blob/master/IVF%20Project%20Final%20Report.pdf">Final Report</a>
          <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis">Github Repo</a></p>
    </body>
    <body>
