@@ -48,6 +48,12 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          <br><a href="placeholder">Github Repo</a></p>
    </body>
    <body>
+      <h3>Sentiment Analysis Project Placeholder</h3>
+      <p>
+         Project Description 
+         <br><a href="placeholder">Github Repo</a></p>
+   </body>  
+   <body>
       <h3>Exploratory Analsis of Colorado's Air Quality Index</h3>
       <p>
          As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to provide an answer to the statistical question: Are pollution levels in Colorado decreasing over time?
@@ -67,13 +73,13 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    <body>
       <h3>Mobile Game Market Analysis</h3>
       <p>
-         Project Description 
+         This project provides analysis on Google's mobile game market. The main focus of this project was to gather data from different data sources; a csv file, tabular data scraped from a website, and retrieving data using an API. All three data sources were then combined and inserted into a database. Then the data was used to conduct analysis and provide statistics surrounding Google game reviews, ratings, and revenue. 
          <br><a href="placeholder">Github Repo</a></p>
    </body>  
-      <body>
+   <body>
       <h3>Denver County Traffic Analysis</h3>
       <p>
-         Project Description 
+         Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.  
          <br><a href="placeholder">Github Repo</a></p>
    </body>  
 </html>
