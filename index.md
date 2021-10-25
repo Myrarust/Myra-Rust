@@ -83,7 +83,8 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          <br><a href="placeholder">Github Repo</a></p>
    </body>
 </html>
-<br>
+
+
 ## Contact Info
 
 **Social Media**
