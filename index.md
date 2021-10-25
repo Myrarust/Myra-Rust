@@ -67,7 +67,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    <body>
       <h3>Statistical Analysis of IVF Success Rates</h3>
       <p>
-         Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. During the IVF procedure, an egg is retrieved from the woman, fertilized in a laboratory, then the fertilized embryo is transferred to the woman’s uterus. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
+         Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
          <br><a href="https://github.com/Myrarust/IVF-Success-Rate-Statistical-Analysis">Github Repo</a></p>
    </body>
    <body>
