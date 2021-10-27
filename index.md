@@ -8,6 +8,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 **Languages:** Python, R, SQL, UNIX<br>
 
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.
+<br>
 
 ## Projects
 
