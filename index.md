@@ -9,7 +9,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.
 
-![Photo by Ngai Man Yan from Pexels](/docs/assets/images/pexels-ngai-man-yan-842158-slice2.jpg)
+![Photo by Emiliano Arano from Pexels](/docs/assets/images/pexels-emiliano-arano-3608311.jpg)
 ## Projects
 Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that peaks your interest, you can view the project deliverables and code by clicking the Github Repo link. This will bring you directly to the repository for that project.  
 
@@ -75,11 +75,9 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       </p>
    </body>
 </html><br>
-
-![Photo by Ngai Man Yan from Pexels](/docs/assets/images/pexels-ngai-man-yan-842158-slice2.jpg)
 <html>
   <body>
-    <h2>Contact Info</h2>
+    <h2>Contact Info<br><img src="/docs/assets/images/pexels-emiliano-arano-3608311.jpg"></h2>
     <p>
       <h3>Social Media</h3>
       Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
