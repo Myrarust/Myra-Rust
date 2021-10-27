@@ -13,7 +13,7 @@ Scenario: The Denver Police Department would like to improve public traffic safe
 Project Description
 
 ### Exploratory Analsis of Colorado's Air Quality Index
-As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to provide an answer to the statistical question: Are pollution levels in Colorado decreasing over time?
+As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to prove that pollution levels in Colorado are decreasing over time.
 
 ### Forecasting Workplace Absenteeism
 This project leveraged historical data, machine learning, and predictive modeling to forecast how many hours an employee will be absent based on demographic information. In this project multiple models were evaluated and performance was measured on regression performance statistics. The best performing model was able to account for 4.3% of target variance. This result is not optimal and indicates that the demographic information provided is not sufficient to make accurate forecasts. However, analysis did identify a potential alternate forecasting model that could be used to make more accurate forecasts.
