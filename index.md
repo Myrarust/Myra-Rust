@@ -54,7 +54,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       <h3>Predicting Recidivism using Machine Learning</h3>
       <p>
          Again, and again, you read news articles or watch television programs about persons who were previously incarcerated, committing additional criminal acts after being released from prison. The question that we ask ourselves is, could these additional crimes have been prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If we could determine who is likely to reoffend, this information could be used to make better decisions  on initial sentence lengths or at parole release boards.  
-         <br><a href="placeholder">Github Repo</a>
+         <br><a href="placeholder">Github Repo</a></p>
    </body>   
    <body>
       <h3>Statistical Analysis of IVF Success Rates</h3>
@@ -75,7 +75,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          <br><a href="placeholder">Github Repo</a>
       </p>
    </body>
-</html><br>
+</html></html><br>
 
 <html>
   <body>
