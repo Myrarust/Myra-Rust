@@ -10,8 +10,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.<br>
 
 
-![Photo by Ngai Man Yan from Pexels](pexels-ngai-man-yan-842158.jpg)
-
+![Photo by Ngai Man Yan from Pexels](/docs/assets/images/pexels-ngai-man-yan-842158.jpg)
 Photo by Ngai Man Yan from Pexels
 
 ## Projects
