@@ -3,7 +3,7 @@
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
 
-<br>**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
+<br><br>**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
 
 **Languages:** Python, R, SQL, UNIX<br>
 
@@ -11,8 +11,9 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 <html>
   <body>
+    <h3>Resume</h3>
     <p>
-      To view my resume <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
+      <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
     </p>
   </body>
 </html>
