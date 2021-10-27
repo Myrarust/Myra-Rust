@@ -1,11 +1,10 @@
 ![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/pages_headshot2.jpg)
 
-![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/docs/assets/images/pages_headshot2.jpg)
-
-![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg)
-
-![Hi! I'm Myra](https://myrarust.github.io//Myra-Rust/blob/main/docs/assets/images/pages_headshot2.jpg)
-
+<html>
+   <body>     
+      <img alt="" src="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/pages_headshot2.jpg">
+   </body>
+</html>
 
 ## About Me
 
