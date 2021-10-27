@@ -44,7 +44,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    <body>
       <h3>Exploratory Analsis of Colorado's Air Quality Index</h3>
       <p>
-         As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to provide an answer to the statistical question: Are pollution levels in Colorado decreasing over time?</p>
+         As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to prove that pollution levels in Colorado are decreasing over time.</p>
    </body>   
    <body>
       <h3>Predicting Recidivism using Machine Learning</h3>
