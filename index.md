@@ -6,7 +6,7 @@
 <html>
   <body>
     <p>
-      <img src="/blob/main/docs/assets/images/pages_headshot2.png"
+      <img src="/blob/main/docs/assets/images/pages_headshot2.png">
     </p>
   </body>
 </html>
