@@ -10,7 +10,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.<br>
 
 
-![Photo by Clark Tibbs on Unsplash](/docs/assets/images/clark-tibbs-oqStl2L5oxI-unsplash1-edited.jpg)
+![Photo by Clark Tibbs on Unsplash](/docs/assets/images/clark-tibbs-oqStl2L5oxI-unsplash1-edited.jpg = 1920x1080)
 
 Photo by Clark Tibbs on Unsplash
 
