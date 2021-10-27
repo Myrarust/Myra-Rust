@@ -85,28 +85,15 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>
 </html><br>
 <html>
-  <body></body>
-</html>
-
-## Contact Info
-
-**Social Media**
-<html>
-   <body>
-      <p>
-         Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a>.
-      </p>
-   </body>
-</html>
-<html>
-   <body>
-      <p>
-         LinkedIn: <a href="https://www.linkedin.com/in/myra-rust-a18b6719/">https://www.linkedin.com/in/myra-rust-a18b6719/</a>.
-      </p>
-   </body>
-</html>
-
-**Or send me a message:**
+  <body>
+    <h2>Contact Info</h2>
+    <p>
+      Social Media<br>
+      Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
+      LinkedIn: <a href="https://www.linkedin.com/in/myra-rust-a18b6719/">https://www.linkedin.com/in/myra-rust-a18b6719/</a><br>
+    </p>
+    <h3>Send Message</h3>
+    <p>
 <form
   action="https://formspree.io/f/mrgrdplp"
   method="POST"
@@ -125,4 +112,4 @@ Here are a some of my favorite projects I completed during my Data Science Maste
   </label>
   <!-- your other form fields go here -->
   <br><button type="submit">Send</button>
-</form>
+    </form></p></body></html>
