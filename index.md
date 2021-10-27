@@ -74,21 +74,23 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       <h3>Denver County Traffic Analysis</h3>
       <p>
          Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.  
-         <br><a href="placeholder">Github Repo</a>
-      </p>
+         <br><a href="placeholder">Github Repo</a></p>
    </body>
+</html>
+
+## Contact Info
+
+![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
 
 <html>
-  <body>
-    <h2>Contact Info</h2>
-     <img src="https://github.com/Myrarust/Myra-Rust/blob/c2c4ab8bea517c11a2ebbb019ad1f13fbef734fa/docs/assets/images/pexels-scott-webb-1022928-slice.jpg" alt="">
-    <p>
+   <body>
       <h3>Social Media</h3>
+        <p>
       Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/myra-rust-a18b6719/">https://www.linkedin.com/in/myra-rust-a18b6719/</a><br>
-    </p>
-    <h3>Send Message</h3>
-    <p>
+        </p>
+      <h3>Send Message</h3>
+        <p>
 <form
   action="https://formspree.io/f/mrgrdplp"
   method="POST"
