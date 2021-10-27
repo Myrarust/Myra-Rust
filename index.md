@@ -8,11 +8,8 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 **Languages:** Python, R, SQL, UNIX<br>
 
 **Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.<br>
-
-
+<br>
 ![Photo by Ngai Man Yan from Pexels](/docs/assets/images/pexels-ngai-man-yan-slice.jpg)
-Photo by Ngai Man Yan from Pexels
-
 ## Projects
 
 Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that peaks your interest, you can view the project deliverables and code by clicking the Github Repo link. This will bring you directly to the repository for that project.  
