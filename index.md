@@ -13,6 +13,9 @@ I am an aspiring data scientist looking to leverage my past experience and curre
   <body>
     <p><strong>Resume: </strong><a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a></p>
   </body>
+  <body>
+    <img src:"https://flic.kr/p/jQyCLd">
+  </body>
 </html>
 
 ## Projects
