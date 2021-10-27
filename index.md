@@ -1,4 +1,4 @@
-![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg){: style="float: left"; margin-right: 50em;}
+![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg){: style="float: left"; margin-right: 10em;}
 ## About Me
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
