@@ -87,8 +87,8 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
   <body>
     <h2>Contact Info</h2>
-    <h3>Social Media</h3>
     <p>
+      <h3>Social Media</h3>
       Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
       LinkedIn: <a href="https://www.linkedin.com/in/myra-rust-a18b6719/">https://www.linkedin.com/in/myra-rust-a18b6719/</a><br>
     </p>
