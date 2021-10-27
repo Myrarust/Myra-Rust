@@ -1,4 +1,4 @@
-![test4](/docs/assets/images/pages_headshot2.jpg)
+![test4](/docs/assets/images/pages_headshot2.jpg) <BR CLEAR=”left” />
 
 ## About Me
 
