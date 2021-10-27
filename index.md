@@ -84,6 +84,9 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       </p>
    </body>
 </html><br>
+<html>
+  <body></body>
+</html>
 
 ## Contact Info
 
