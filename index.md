@@ -1,6 +1,6 @@
 ![test4](/docs/assets/images/pages_headshot2.jpg) 
 
-<img src="/docs/assets/images/pages_headshot2.jpg" align="left" style="margin: 0px 100px 0px 0px;"/>
+<img src="https://github.com/Myrarust/Myra-Rust/blob/97f9636f6b91138b0e925074055126fc43e8533c/docs/assets/images/pages_headshot2.jpg" align="left" style="margin: 0px 100px 0px 0px;"/>
 
 ## About Me
 
