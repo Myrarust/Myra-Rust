@@ -1,6 +1,6 @@
 ![test4](/docs/assets/images/pages_headshot2.jpg) 
 
-<img src="/docs/assets/images/pages_headshot2.jpg" align="left" style="margin: 0px 10px 0px 0px;"/>
+<img src="/docs/assets/images/pages_headshot2.jpg" align="left" style="margin: 0px 100px 0px 0px;"/>
 
 ## About Me
 
