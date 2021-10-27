@@ -1,7 +1,5 @@
 ![test4](/docs/assets/images/pages_headshot2.jpg) 
 
-<img src="https://github.com/Myrarust/Myra-Rust/blob/97f9636f6b91138b0e925074055126fc43e8533c/docs/assets/images/pages_headshot2.jpg" align="left" style="margin: 0px 100px 0px 0px;"/>
-
 ## About Me
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
