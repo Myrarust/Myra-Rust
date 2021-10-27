@@ -1,4 +1,5 @@
-![test4](/docs/assets/images/pages_headshot2.jpg) 
+![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg) 
+![test4](/docs/assets/images/pages_headshot2.png) 
 
 ## About Me
 
