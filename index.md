@@ -1,4 +1,6 @@
-![test4](/docs/assets/images/pages_headshot2.jpg) <BR CLEAR=”left” />
+![test4](/docs/assets/images/pages_headshot2.jpg) 
+
+<img src ="/docs/assets/images/pages_headshot2.jpg" align="left"/> 
 
 ## About Me
 
