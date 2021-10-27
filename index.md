@@ -81,7 +81,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
   <body>
     <h2>Contact Info</h2>
-     <img src="/docs/assets/images/pexels-scott-webb-1022928-slice.jpg" alt="">
+     <img src="https://github.com/Myrarust/Myra-Rust/blob/c2c4ab8bea517c11a2ebbb019ad1f13fbef734fa/docs/assets/images/pexels-scott-webb-1022928-slice.jpg" alt="">
     <p>
       <h3>Social Media</h3>
       Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
