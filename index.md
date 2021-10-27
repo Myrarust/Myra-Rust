@@ -77,12 +77,11 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          <br><a href="placeholder">Github Repo</a>
       </p>
    </body>
-<br>
 
 <html>
   <body>
     <h2>Contact Info</h2>
-     <p><img src="/docs/assets/images/pexels-scott-webb-1022928-slice.jpg" alt=""></p>
+     <img src="/docs/assets/images/pexels-scott-webb-1022928-slice.jpg" alt="">
     <p>
       <h3>Social Media</h3>
       Github: <a href="https://github.com/Myrarust">https://github.com/Myrarust</a><br>
