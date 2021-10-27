@@ -11,6 +11,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 ## Projects
 ![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928.jpg)
+
 Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that peaks your interest, you can view the project deliverables and code by clicking the Github Repo link. This will bring you directly to the repository for that project.  
 
 <html>
