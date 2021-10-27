@@ -11,10 +11,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 <html>
   <body>
-    <h3>Resume</h3>
-    <p>
-      <a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
-    </p>
+    <h3>Resume</h3><a href="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/Resume.pdf">click here</a>.
   </body>
 </html>
 
