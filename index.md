@@ -1,7 +1,9 @@
 ![test4](/docs/assets/images/pages_headshot2.jpg) 
 
-<img src ="/docs/assets/images/pages_headshot2.jpg" align="left" hspace="50" vspace="50"/> 
-
+<img src ="/docs/assets/images/pages_headshot2.jpg" align="left" hspace="100" vspace="50"/> 
+<br>
+<br>
+<br>
 ## About Me
 
 I am an aspiring data scientist looking to leverage my past experience and current education in a new and exciting career. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
