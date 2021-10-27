@@ -2,7 +2,7 @@
 
 ![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/624e7d37f8211ff5fd2b0aac56d5ba18c7682075/docs/assets/images/pages_headshot2.png)
 
-![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/pages_headshot2.PNG)
+![Hi! I'm Myra](https://github.com/Myrarust/Myra-Rust/blob/af9d4ea0f35e9814ece87454ae323e67709e2123/docs/assets/images/pages_headshot2.jpg)
 
 
 ## About Me
