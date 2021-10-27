@@ -2,7 +2,7 @@
 
 <html>
    <body>     
-      <img alt="" src="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/pages_headshot2.jpg">
+      <img src="https://github.com/Myrarust/Myra-Rust/blob/main/docs/assets/images/pages_headshot2.jpg">
    </body>
 </html>
 
