@@ -1,1 +1,2 @@
-##Read Me
+## ASL Image Classification
+This project utilizes machine learning techniques to test computer vision capabilities on human hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from a 2D imag of a hand pose. The model achievied an accuracy score of 92.1%. This is a significant accomplishment and could lead to further work incorporating machine learning models to provide real-time interpretation of sign language.
