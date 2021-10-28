@@ -1,1 +1,2 @@
-##Read Me
+## Statistical Analysis of IVF Success Rates
+Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.
