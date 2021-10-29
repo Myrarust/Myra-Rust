@@ -85,7 +85,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Again, and again, you read news articles or watch television programs about persons who were previously incarcerated, committing additional criminal acts after being released from prison. The question that we ask ourselves is, could these additional crimes have been prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If we could determine who is likely to reoffend, this information could be used to make better decisions  on initial sentence lengths or at parole release boards.</p>
+         Often times persons who were previously incarcerated commit additional criminal acts after being released from prison. Many question, could these additional crimes be prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If able to determine who is likely to reoffend, that information could be used to make better decisions at parole release boards or on initial sentence lengths.</p>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Statistical%20Analysis%20of%20IVF%20Success%20Rates">Statistical Analysis of IVF Success Rates</a></h3>
@@ -115,7 +115,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.</p>
+         Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.<br><br><br><br></p>
    </body>
 </html>
 
