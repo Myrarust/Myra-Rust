@@ -21,7 +21,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
    </body>
 </html>
-![Hi! I'm Myra](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 2em; width: 250px; height: 167px;"}
+![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 2em; width: 250px; height: 167px;"}
 <html>
    <body>
       <p>
@@ -29,6 +29,11 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>      
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
+   </body>
+</html>
+![asl](/docs/assets/images/asl1.jpg){: style="float: left; margin-right: 2em; width: 250px; height: 167px;"}
+<html>
+   <body>
       <p>
          This project utilizes machine learning techniques to test computer vision capabilities on human hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from a 2D imag of a hand pose. The model achievied an accuracy score of 92.1%. This is a significant accomplishment and could lead to further work incorporating machine learning models to provide real-time interpretation of sign language.</p>
    </body>   
