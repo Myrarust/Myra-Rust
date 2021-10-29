@@ -65,7 +65,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Project Description<br><br><br></p>
+         Project Description<br><br><br><br><br><br></p>
    </body>  
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Exploratory%20Analysis%20of%20Colorado%20Air%20Quality%20Index">Exploratory Analsis of Colorado's Air Quality Index</a></h3>
