@@ -55,10 +55,10 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.<br></p>
+         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.</p>
    </body>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Drug%20Review%20Sentiment%20Analysis">Drug Review Sentiment Analysis</a></h3>
+      <h3><br><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Drug%20Review%20Sentiment%20Analysis">Drug Review Sentiment Analysis</a></h3>
    </body>
 </html>
 ![drugs](/docs/assets/images/drugs2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
@@ -85,7 +85,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Often times persons who were previously incarcerated commit additional criminal acts after being released from prison. Many question, could these additional crimes be prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If able to determine who is likely to reoffend, that information could be used to make better decisions at parole release boards or on initial sentence lengths.</p>
+         Often times persons who were previously incarcerated commit additional criminal acts after being released from prison. Can these additional crimes be prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If able to determine who is likely to reoffend, that information could be used to make better decisions at parole release boards or on initial sentence lengths.</p>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Statistical%20Analysis%20of%20IVF%20Success%20Rates">Statistical Analysis of IVF Success Rates</a></h3>
