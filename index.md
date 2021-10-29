@@ -79,21 +79,41 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Recidivism%20using%20Machine%20Learning">Predicting Recidivism using Machine Learning</a></h3>
+   </body>
+</html>
+![recidivism](/docs/assets/images/recidivism.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          Again, and again, you read news articles or watch television programs about persons who were previously incarcerated, committing additional criminal acts after being released from prison. The question that we ask ourselves is, could these additional crimes have been prevented? This project evaluates the performance of machine learning models to predict recidivism rates based off of demographic information. If we could determine who is likely to reoffend, this information could be used to make better decisions  on initial sentence lengths or at parole release boards.</p>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Statistical%20Analysis%20of%20IVF%20Success%20Rates">Statistical Analysis of IVF Success Rates</a></h3>
+   </body>
+</html>
+![ivf](/docs/assets/images/ivf.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          Many women have difficulty becoming pregnant and look to assisted reproductive procedures to help with conceiving a child. In vitro fertilization (IVF) is one of the procedures available. The IVF process is a very expensive. This project utilized R programming language to conduct statistical analysis on IVF success rates and factors to help an individual make decisions on whether in vitro fertilization is a good choice for them.</p>
    </body>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Mobile%20Game%20Market%20Analysis">Mobile Game Market Analysis</a></h3>
+   </body>
+</html>
+![mobilegames](/docs/assets/images/mobilegames.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          This project provides analysis on Google's mobile game market. The main focus of this project was to gather data from different data sources; a csv file, tabular data scraped from a website, and retrieving data using an API. All three data sources were then combined and inserted into a database. Then the data was used to conduct analysis and provide statistics surrounding Google game reviews, ratings, and revenue.</p>
    </body>  
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Denver%20County%20Traffic%20Analysis">Denver County Traffic Analysis</a></h3>
+   </body>
+</html>
+![traffic](/docs/assets/images/traffic.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          Scenario: The Denver Police Department would like to improve public traffic safety. Conduct exploratory data analysis on Denver city and county traffic accidents data and identify any possible patterns, trends, or any other information that might be helpful to achieving this goal.</p>
    </body>
