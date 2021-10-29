@@ -14,7 +14,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that piques your interest, you can view the project deliverables and code by clicking the project name.
 
-![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)<br />
+![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
 ![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 2em; width: 300px; height: 200px;"}
 <html>
    <body>
