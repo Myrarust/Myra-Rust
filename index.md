@@ -20,7 +20,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
       <p>
-         If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on what couples will get divorced with a final accuracy score of 98%! </p><br />
+         If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on which couples will get divorced with a final accuracy score of 98%! </p>
    </body>
 </html>
 ![asl](/docs/assets/images/asl1.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
@@ -28,7 +28,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
       <p>
-         This project utilizes machine learning techniques to test computer vision capabilities on human hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from a 2D imag of a hand pose. The model achievied an accuracy score of 92.1%. This is a significant accomplishment and could lead to further work incorporating machine learning models to provide real-time interpretation of sign language.</p>
+         This project utilizes machine learning techniques to test computer vision capabilities on hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from these images. The model achievied an accuracy score of 92.1%. This significant accomplishment proves there is potential for incorporating machine learning models to provide real-time interpretation of sign language.</p>
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Forecasting%20Workplace%20Absenteeism">Forecasting Workplace Absenteeism</a></h3>
