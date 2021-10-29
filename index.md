@@ -39,6 +39,11 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Forecasting%20Workplace%20Absenteeism">Forecasting Workplace Absenteeism</a></h3>
+   </body>
+</html>
+![absence2](/docs/assets/images/absence2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          This project leveraged historical data, machine learning, and predictive modeling to forecast how many hours an employee will be absent based on demographic information. In this project multiple models were evaluated and performance was measured on regression performance statistics. The best performing model was able to account for 4.3% of target variance. This result is not optimal and indicates that the demographic information provided is not sufficient to make accurate forecasts. However, analysis did identify a potential alternate forecasting model that could be used to make more accurate forecasts.</p>
    </body>   
