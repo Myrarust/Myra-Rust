@@ -59,11 +59,21 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Drug%20Review%20Sentiment%20Analysis">Drug Review Sentiment Analysis</a></h3>
+   </body>
+</html>
+![drugs](/docs/assets/images/drugs2.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          Project Description</p>
    </body>  
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Exploratory%20Analysis%20of%20Colorado%20Air%20Quality%20Index">Exploratory Analsis of Colorado's Air Quality Index</a></h3>
+   </body>
+</html>
+![denverair](/docs/assets/images/denverair.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          As a nation, we continue to become more aware of environmental issues like pollution. The government imposes environmental standards to help mitigate pollution and there has been a huge movement in both the public and private sectors, towards clean energy sources like electric, solar, and wind power. But are we making an impact? This project uses exploratory data analysis techniques to prove that pollution levels in Colorado are decreasing over time.</p>
    </body>   
