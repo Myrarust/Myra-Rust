@@ -21,7 +21,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
    </body>
 </html>
-![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<br>![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <p>
