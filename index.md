@@ -15,18 +15,24 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 ![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
 Here are a some of my favorite projects I completed during my Data Science Master's program. If you see one that piques your interest, you can view the project deliverables and code by clicking the project name.
 
-![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
+   </body>
+</html>
+![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on which couples will get divorced with a final accuracy score of 98%! </p>
+   </body>
+   <body>
+      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
    </body>
 </html>
 ![asl](/docs/assets/images/asl1.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
 <html>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
       <p>
          This project utilizes machine learning techniques to test computer vision capabilities on hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from these images. The model achievied an accuracy score of 92.1%. This significant accomplishment proves there is potential for incorporating machine learning models to provide real-time interpretation of sign language.</p>
    </body>   
