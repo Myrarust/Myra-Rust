@@ -49,6 +49,11 @@ Here are a some of my favorite projects I completed during my Data Science Maste
    </body>   
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Airline%20Safety%20Visualization%20Analysis">Airline Saftey Visualization Analysis</a></h3>
+   </body>
+</html>
+![airline](/docs/assets/images/airline.jpg){: style="float: left; margin-right: 1em; width: 300px; height: 200px;"}
+<html>
+   <body>
       <p>
          Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.</p>
    </body>
