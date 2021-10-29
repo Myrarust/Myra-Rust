@@ -16,6 +16,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 
 ![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
 &nbsp;
+&nbsp;
 ![divorce](/docs/assets/images/divorce.jpg){: style="float: right; margin-left: 2em; width: 300px; height: 200px;"}
 <html>
    <body>
@@ -24,7 +25,6 @@ Here are a some of my favorite projects I completed during my Data Science Maste
          If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on what couples will get divorced with a final accuracy score of 98%! </p>
    </body>
 </html>
-&nbsp;
 ![asl](/docs/assets/images/asl1.jpg){: style="float: left; margin-right: 2em; width: 250px; height: 167px;"}
 <html>
    <body>
