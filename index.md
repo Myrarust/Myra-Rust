@@ -55,7 +55,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.</p>
+         Project Scenario: A slew of recent airline accidents had people worried about airline safety. As a person employed for an airline, I was tasked with creating a number of visualizations that could be used to tell the true story of airline safety to different audiences. Project deliverables include: a blog post, an infographic, an executive summary, and a final presentation for management.<br></p>
    </body>
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Drug%20Review%20Sentiment%20Analysis">Drug Review Sentiment Analysis</a></h3>
@@ -65,7 +65,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Project Description<br><br><br><br><br><br></p>
+         Project Description<br><br><br><br><br><br><br><br></p>
    </body>  
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Exploratory%20Analysis%20of%20Colorado%20Air%20Quality%20Index">Exploratory Analsis of Colorado's Air Quality Index</a></h3>
