@@ -17,17 +17,19 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 ![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
 <html>
    <body>
-      <img src="/docs/assets/images/absence2.jpg" align="right" hspace="20" style="width:250px;height:167px;"/>
+      <img src="/docs/assets/images/divorce.jpg" align="right" hspace="20" style="width:250px;height:167px;"/>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Predicting%20Divorce%20with%20Logistic%20Regression">Predicting Divorce with Logistic Regression</a></h3>
       <p>
          If you have read the book Blink by Malcolm Gladwell, then you might be familiar with Dr. John Gottman who is renowned in the field of psychology for being able to predict couples that will divorce with an accuracy rate of ~94%. But can machine beat man at this prediction game? This project uses data science and logistic regression to analyze survey data and make predictions on what couples will get divorced with a final accuracy score of 98%! </p>
    </body>      
    <body>
+      <img src="/docs/assets/images/asl.jpg" align="left" hspace="20" style="width:250px;height:167px;"/>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/ASL%20Image%20Classification">ASL Image Classification</a></h3>
       <p>
          This project utilizes machine learning techniques to test computer vision capabilities on human hand pose images. Using Keras and Tensorflow to create a convolutional neural network to predict the letter value from a 2D imag of a hand pose. The model achievied an accuracy score of 92.1%. This is a significant accomplishment and could lead to further work incorporating machine learning models to provide real-time interpretation of sign language.</p>
    </body>   
    <body>
+      <img src="/docs/assets/images/absence2.jpg" align="left" hspace="20" style="width:250px;height:167px;"/>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Forecasting%20Workplace%20Absenteeism">Forecasting Workplace Absenteeism</a></h3>
       <p>
          This project leveraged historical data, machine learning, and predictive modeling to forecast how many hours an employee will be absent based on demographic information. In this project multiple models were evaluated and performance was measured on regression performance statistics. The best performing model was able to account for 4.3% of target variance. This result is not optimal and indicates that the demographic information provided is not sufficient to make accurate forecasts. However, analysis did identify a potential alternate forecasting model that could be used to make more accurate forecasts.</p>
