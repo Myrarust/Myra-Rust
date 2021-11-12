@@ -7,7 +7,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 **Languages:** Python, R, SQL, UNIX<br>
 
-**Software packages/platforms:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.
+**Technologies:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.
 <br>
 
 ## Projects
@@ -65,7 +65,7 @@ Here are a some of my favorite projects I completed during my Data Science Maste
 <html>
    <body>
       <p>
-         Coming Soon!<br><br><br><br><br><br><br><br></p>
+         Sentiment analysis can assist companies in monitoring their brand and public opinion on their products. Machine learning can be utilized to gain insights on the sentiment of freestyle text, which makes it a perfect choice for pharmaceutical company’s trying to gauge how their product is being received on social media platforms. This project builds a neural network that is able to classify freestyle text reviews on drugs into the categories of positive, neutral, and negative with an accuracy score of 83.3%. </p>
    </body>  
    <body>
       <h3><a href="https://github.com/Myrarust/Myra-Rust/tree/main/Projects/Exploratory%20Analysis%20of%20Colorado%20Air%20Quality%20Index">Exploratory Analsis of Colorado's Air Quality Index</a></h3>
