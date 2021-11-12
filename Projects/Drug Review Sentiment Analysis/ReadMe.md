@@ -1,1 +1,2 @@
-
+## Drug Review Sentiment Analysis
+Sentiment analysis can assist companies in monitoring their brand and public opinion on their products. Machine learning can be utilized to gain insights on the sentiment of freestyle text, which makes it a perfect choice for pharmaceutical company’s trying to gauge how their product is being received on social media platforms. This project builds a neural network that is able to classify freestyle text reviews on drugs into the categories of positive, neutral, and negative with an accuracy score of 83.3%. This is a great start and with further development could lead to an extremely successful drug review sentiment prediction model. 
