@@ -5,10 +5,16 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 <br><br>**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, Data Wrangling, Data Mining, Machine Learning, Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
 
-**Languages:** Python, R, SQL, UNIX<br>
+**Languages:** Python, R, SQL<br>
 
-**Technologies:** Pandas, Scikit-learn, Numpy, Keras, Tensorflow, NLTK, Matplotlib, Seaborn, GGPlot2, Tableau, Github, Juypter Notebooks, Jira, Microsoft Office.
-<br>
+**Technologies:**<br>
+Data Science Libraries: Pandas, NumPy, Scikit-Learn, Keras, TensorFlow, NLTK, Matplotlib, GGPlot2<br>
+Data Science Models/Algorithms: linear/logistic regression, decision tree, random forest, boosting, neural networks, etc.<br>
+Big Data: PySpark, Avro, Parquet, Kafka, SQL<br>
+Programming: Python, R, SQL<br>
+OS: Windows, Unix/Linux<br>
+Platforms: Tableau, Github, Juypter Notebooks, Jira, Microsoft Office<br>
+Systems Engineering: SDLC, CI/CD, CRISP-DM<br>
 
 ## Projects
 
