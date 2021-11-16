@@ -9,7 +9,7 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 <html>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/blob/gh-pages/docs/Resume2.pdf">Full Resume</a></h3>
+      <h3><a href="https://github.com/Myrarust/Myra-Rust/blob/gh-pages/docs/Resume2.pdf">View Full Resume</a></h3>
    </body>
 </html>
 
