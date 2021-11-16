@@ -7,14 +7,11 @@ I am an aspiring data scientist looking to leverage my past experience and curre
 
 **Languages:** Python, R, SQL<br>
 
-**Technologies:**<br>
-Data Science Libraries: Pandas, NumPy, Scikit-Learn, Keras, TensorFlow, NLTK, Matplotlib, GGPlot2<br>
-Data Science Models/Algorithms: linear/logistic regression, decision tree, random forest, boosting, neural networks, etc.<br>
-Big Data: PySpark, Avro, Parquet, Kafka, SQL<br>
-Programming: Python, R, SQL<br>
-OS: Windows, Unix/Linux<br>
-Platforms: Tableau, Github, Juypter Notebooks, Jira, Microsoft Office<br>
-Systems Engineering: SDLC, CI/CD, CRISP-DM<br>
+<html>
+   <body>
+      <h3><a href="https://github.com/Myrarust/Myra-Rust/blob/gh-pages/docs/Resume2.pdf">Full Resume</a></h3>
+   </body>
+</html>
 
 ## Projects
 
