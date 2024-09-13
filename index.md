@@ -6,12 +6,6 @@ I am a Data Scientist who loves to leverage my past experience and current educa
 **Languages:** Python, R, SQL<br>
 <br>**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, ETL, Data Wrangling, Data Mining, Machine Learning, Natural Language Processing (NLP) Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
 
-<html>
-   <body>
-      <h3><a href="[https://github.com/user-attachments/files/16997430/Myra.Rust.pdf]">View Full Resume</a></h3>
-   </body>
-</html>
-
 ## Projects
 
 ![Photo by Scott Webb from Pexels](/docs/assets/images/pexels-scott-webb-1022928-slice.jpg)
