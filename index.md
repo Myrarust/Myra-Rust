@@ -8,7 +8,7 @@ I am a Data Scientist who loves to leverage my past experience and current educa
 
 <html>
    <body>
-      <h3><a href="https://github.com/Myrarust/Myra-Rust/blob/gh-pages/docs/Resume2.pdf">View Full Resume</a></h3>
+      <h3><a href="[https://github.com/user-attachments/files/16997430/Myra.Rust.pdf]">View Full Resume</a></h3>
    </body>
 </html>
 
