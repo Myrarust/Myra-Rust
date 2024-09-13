@@ -1,7 +1,7 @@
 ![Hi! I'm Myra](/docs/assets/images/pages_headshot2.jpg){: style="float: left; margin-right: 4em;"}
 ## About Me
 
-I am a Data Scientist looking who loves to leverage my past experience and current education in this exciting career field. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
+I am a Data Scientist who loves to leverage my past experience and current education in this exciting career field. I discovered data science after leaving my career in software integration, test, and QA to be a stay-at-home mom for my wonderful daughter and I fell in love with it! Data science compliments my natural analytical personality and I enjoy using technology and machine learning to solve problems and provide answers. 
 
 **Languages:** Python, R, SQL<br>
 <br>**Skills:** Data Science, Statistical Data Analysis, Exploratory Data Analysis, ETL, Data Wrangling, Data Mining, Machine Learning, Natural Language Processing (NLP) Predictive Modeling, Data Visualization, Software Testing, User Acceptance Testing, Software QA, Requirements Gathering and Traceability.<br>
